@@ -1,9 +1,9 @@
 # Hi there, I'm Ryan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF9933&width=200&height=45&lines=Independent;Arch+Linux" alt="Security in saffron">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FFFFFF&width=200&height=45&lines=Security;Enthusiast+" alt="Security in white">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=138808&width=200&height=45&lines=Researcher;Linux+Lover" alt="Researcher in green">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF9933&width=200&height=45&lines=Independent;Arch+Linux" alt="saffron">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FFFFFF&width=200&height=45&lines=Security;Enthusiast+" alt="white">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=138808&width=200&height=45&lines=Researcher;Linux+Lover" alt="green">
 </p>
 
 <p align="center">
