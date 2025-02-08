@@ -2,18 +2,17 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF9933&width=200&height=45&lines=Independent;Arch+Linux" alt="saffron">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FFFFFF&width=200&height=45&lines=Security;Enthusiast+" alt="white">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FFFFFF&width=200&height=45&lines=Security;Enthusiast" alt="white">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=138808&width=200&height=45&lines=Researcher;Linux+Lover" alt="green">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xl30&color=blueviolet" alt="Profile Views" />
   <a href="https://github.com/0xl30?tab=followers"><img src="https://img.shields.io/github/followers/0xl30?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://www.linkedin.com/in/0xl30/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/0xl30/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
-
 ### 🔐 About Me:
 - 🛡️ **Security Researcher**, **Bug Hunter**, and **CTF Player**.
 - 🐧 **Arch Linux Enthusiast** – I love configuring and tweaking my system to perfection!
@@ -37,10 +36,10 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Analytics:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xl30&show_icons=true&theme=radical&cache_seconds=3600" alt="0xl30 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xl30&layout=compact&theme=radical&cache_seconds=3600" alt="0xl30 GitHub Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xl30&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xl30&theme=nightowl&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
