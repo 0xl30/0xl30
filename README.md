@@ -16,28 +16,23 @@
   </a>
 </div>
 
----
-
+<div align="center">
 ## 🛡️ **About Me**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=0xl30&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xl30&theme=nightowl" /> 
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xl30&theme=nightowl&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=00d4ff&dates=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xl30&theme=nightowl" />
       </td>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xl30&theme=nightowl" />
+</div>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xl30&theme=algolia&no-frame=true&row=1&margin-w=15&margin-h=15" />
-</div>
-
----
 
 ### 🎯 **My Expertise**
 
