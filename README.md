@@ -1,142 +1,148 @@
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Ryan+👋;Security+Researcher+🛡️;Bug+Hunter+🐛;CTF+Competitor+🏆;Arch+Linux+Enthusiast+🐧&center=true&size=27&color=00d4ff&width=500&height=50&duration=3000&pause=1000" alt="Typing SVG" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:050816,50:0b1f3a,100:00d4ff&text=0xRyan&fontColor=ffffff&fontSize=52&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Hunter%20%7C%20Linux%20Enthusiast&descAlignY=58" alt="Header" />
 
 <div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" alt="Code Scrolling" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420" alt="Coding animation" />
 </div>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xl30&color=00d4ff&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/0xl30?tab=followers">
-    <img src="https://img.shields.io/github/followers/0xl30?label=Followers&style=for-the-badge&color=00d4ff" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/0xl30?style=for-the-badge&label=Followers&color=00d4ff&labelColor=0d1117" alt="GitHub followers" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=0xl30&style=for-the-badge&color=00d4ff" alt="Profile views" />
   <a href="https://linkedin.com/in/0xl30">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://0xl30.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </div>
 
-<div align="center">
-  
-### 🎯 **About Me**
+---
+
+## Identity
+
+```bash
+$ whoami
+0xRyan
+
+$ focus --now
+security research
+bug hunting
+ctf problem solving
+linux systems and automation
+
+$ philosophy
+break with intent
+learn with rigor
+build what is useful
+```
+
+I work at the intersection of offensive security, hands-on research, and system-level curiosity. I like understanding how things fail, how they are exploited, and how to build cleaner workflows around that knowledge.
+
+---
+
+## What I Do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Security Research</h3>
+      <p>Attack surface mapping, vulnerability analysis, web exploitation, and practical reporting.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Bug Hunting</h3>
+      <p>Recon, triage, reproducible findings, and disciplined testing against real targets.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>CTF and Linux</h3>
+      <p>Reverse engineering, crypto puzzles, Arch Linux, shell workflows, and system hardening.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Current Targets
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xl30&theme=nightowl" /> 
-      </td>
-      <td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xl30&theme=nightowl" />
-      </td>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xl30&theme=nightowl" />
+  <img src="https://img.shields.io/badge/Web%20Security-Advanced%20Research-081b29?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Web Security" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Active-1b1f23?style=for-the-badge&logo=gnometerminal&logoColor=00d4ff" alt="Reverse Engineering" />
+  <img src="https://img.shields.io/badge/Automation-Recon%20and%20Monitoring-10233d?style=for-the-badge&logo=githubactions&logoColor=00d4ff" alt="Automation" />
 </div>
-    </tr>
-  </table>
 
-### 🎯 **My Expertise**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xl30&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <b>🛡️ Security Research</b><br/>
-        <sub>Bug Hunting • Penetration Testing • Vulnerability Assessment</sub>
-      </td>
-      <td align="center">
-        <b>🏆 CTF Competitions</b><br/>
-        <sub>Web Exploitation • Reverse Engineering • Crypto Challenges</sub>
-      </td>
-      <td align="center">
-        <b>🐧 Linux Systems</b><br/>
-        <sub>Arch Linux • System Hardening • Kernel Tuning</sub>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,java,html,css,linux,git,vscode" alt="Skill icons" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Terminal-111111?style=flat-square&logo=gnometerminal&logoColor=00d4ff" alt="Terminal" />
 </div>
 
 ---
 
-### 🏆 **Achievements**
+## GitHub Pulse
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🥇-Top%20Team%20Rankings-blue?style=for-the-badge&logo=security" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🐞-100%2B%20Vulnerabilities%20Reported-green?style=for-the-badge&logo=bugcrowd" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🧠-Advanced%20Pentesting-orange?style=for-the-badge&logo=metasploit" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xl30&theme=github_dark" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xl30&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=0xl30&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xl30&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xl30&theme=github_dark" alt="Most commit language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xl30&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
 ---
 
-### 💻 **Tech Stack**
+## Animated Activity
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6B35?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/0xl30/0xl30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:081b29,100:00d4ff&height=2&section=header" width="100%" alt="Divider" />
 </div>
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xl30&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0xl30/0xl30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark green)" />
-</div>
-
----
-
-### 🌐 **Connect With Me**
+## Connect
 
 <div align="center">
   <a href="https://facebook.com/0xL30">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/0xl30">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://0xl30.medium.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://github.com/0xl30">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
----
-
-### 🚀 **Fun Facts**
-
 <div align="center">
-  <blockquote>
-    ⚡ I regularly break my system just to rebuild it better — the Arch way.<br/>
-    💬 Ask me about kernel tuning, exploit crafting, or obscure Linux flags.<br/>
-    🔥 Currently learning advanced web security and reverse engineering techniques.
-  </blockquote>
+  <sub>Build. Break. Learn. Repeat.</sub>
 </div>
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Thanks+for+visiting!+🛡️;Happy+hacking!+💻&center=true&size=20&color=00d4ff&width=400&height=30&duration=2000&pause=1000" alt="Typing SVG" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00d4ff,50:0b1f3a,100:050816" alt="Footer" />
